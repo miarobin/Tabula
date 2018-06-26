@@ -1,6 +1,8 @@
-#TABULA: A game for all those with too much time on their hands... Especially this version. 
+#TABULA
+A game for all those with too much time on their hands... Especially this version. 
 Written as part of a First Year programming module in the Durham University Computer Science dept.
 
+To start, run the 'Game' class.
 RULES: 
 1. Set the two players (either two computers, one computer one player, two players) as directed on screen.
 2. Start game.
