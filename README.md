@@ -1,4 +1,4 @@
-#TABULA
+# TABULA
 A game for all those with too much time on their hands... Especially this version. 
 Written as part of a First Year programming module in the Durham University Computer Science dept.
 
